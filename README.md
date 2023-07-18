@@ -1,4 +1,7 @@
-# Calculator
+# Calculator Main Page :
+ ![Screenshot (70)](https://github.com/badrivdpraveen5/mini-project-1/assets/109084507/3c7dd332-1e3e-42f5-9d9c-c0824541eef7)
+## Invalid expression page
+![Screenshot (71)](https://github.com/badrivdpraveen5/mini-project-1/assets/109084507/0a63056d-5ab6-4c2f-860d-8cdd89c4b058)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
@@ -17,6 +20,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
 
 ## Running end-to-end tests
 
