@@ -13,10 +13,11 @@ export class AppComponent {
     this.input='';
   }
   back(){
-     this.input=this.input.substring(0,this.input.length-1);
+     this.input=String(this.input).substring(0,this.input.length-1);
   }
   insert(k:any){
     this.input=this.input+k;
+    this.msg="";
   }
 calculate(){
   try{
